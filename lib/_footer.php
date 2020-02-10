@@ -6,7 +6,7 @@
 
 <div class="footer">
     <div class="container">
-        <b class="copyright">&copy; <?php echo date('Y'); ?> AHR-Pos - A.H.Rifat.com </b>All rights reserved.
+        <b class="copyright">&copy; <?php echo date('Y'); ?> AHR-Pos - AH.Rifat.com </b>All rights reserved.
     </div>
 </div>
 <script src="scripts/jquery-1.9.1.min.js" type="text/javascript"></script>
