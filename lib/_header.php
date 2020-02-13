@@ -8,7 +8,7 @@
         <link type="text/css" href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link type="text/css" href="bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
         <link type="text/css" href="bootstrap/css/theme.css" rel="stylesheet">
-        <link type="text/css" href="images/icons/css/font-awesome.css" rel="stylesheet">
+        <link type="text/css" href="bootstrap/img/icons/css/font-awesome.css" rel="stylesheet">
         <link type="text/css" href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600'
             rel='stylesheet'>
     </head>
@@ -43,7 +43,7 @@
 <!--                            </li>-->
                             <li><a href="#">Support </a></li>
                             <li class="nav-user dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <img src="images/user.png" class="nav-avatar" />
+                                <img src="bootstrap/img/user.png" class="nav-avatar" />
                                 <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="#">Your Profile</a></li>
