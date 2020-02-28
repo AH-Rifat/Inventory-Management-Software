@@ -1,5 +1,1 @@
-<?php require_once 'lib/_header.php'; ?>
-
-
-
-<?php require_once 'lib/_footer.php'; ?>
+<?php header('Location: frontend/add_products.php');
