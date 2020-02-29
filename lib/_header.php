@@ -74,7 +74,7 @@
                                     <ul id="togglePages" class="collapse unstyled">
                                         <li><a href="showProduts.php"><i class="icon-inbox"></i>List Products</a></li>
                                         <li><a href="../frontend/add_products.php"><i class="icon-inbox"></i>Add Products</a></li>
-                                        <li><a href=""><i class="icon-inbox"></i>Category Products</a></li>
+                                        <li><a href="../frontend/add_category.php"><i class="icon-inbox"></i>Category Products</a></li>
                                     </ul>
                                 </li>
 
